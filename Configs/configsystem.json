@@ -138,6 +138,18 @@
             "Display",
             "Display"
         ],
+        "DisplayIsProjector":[
+            "True",
+            "False",
+            "False",
+            "False",
+            "False",
+            "False",
+            "False",
+            "False",
+            "False",
+            "False"
+        ],
         "DisplayNames":[
             "Display Left",
             "Display Right",
