@@ -25,6 +25,12 @@
         "Camera3IpAddress":["192.168.1.30"],
         "Camera3UserName":["Admin"],
         "Camera3Password":["Password"],
+        "WindowProc1Hostname":[""],
+        "WindowProc1Username":[""],
+        "WindowProc1Password":[""],
+        "WindowProc1Debugname":[""],
+        "WindowProc1Portnumber":[22023],
+
         "ModeNames": [
             "Routing",
             "Display Control",
