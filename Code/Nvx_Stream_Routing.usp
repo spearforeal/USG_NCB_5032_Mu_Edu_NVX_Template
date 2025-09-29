@@ -17,7 +17,7 @@ CHANGE Video_Source
 	}
 	else if(y=0)
 	{
-		Decoder_Stream_Location[x] = "No Source";
+		Decoder_Stream_Location[x] = " ";
 	}
 	
 }
