@@ -1,0 +1,25 @@
+{
+    "presets":{
+        "Preset1":{
+            "windowPreset": 1, 
+            "outputs":[0, 0, 0, 1, 2, 4, 1, 0]
+        },
+        "Preset2":{
+            "windowPreset": 1, 
+            "outputs":[0, 0, 0, 1, 2, 4, 1, 0]
+        },
+        "Preset3":{
+            "windowPreset": 1, 
+            "outputs":[0, 0, 0, 1, 2, 4, 1, 0]
+        },
+        "Preset4":{
+            "windowPreset": 1, 
+            "outputs":[0, 0, 0, 1, 2, 4, 1, 0]
+        },
+        "Preset5":{
+            "windowPreset": 1, 
+            "outputs":[0, 0, 0, 1, 2, 4, 1, 0]
+        }
+    }
+
+}

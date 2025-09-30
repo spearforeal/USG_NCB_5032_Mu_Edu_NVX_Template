@@ -1,0 +1,27 @@
+#SYMBOL_NAME "PresetDriver_v0"
+#DEFAULT_VOLATILE
+#ENABLE_STACK_CHECKING
+DIGITAL_INPUT Save, Recall, Preset[5];
+ANALOG_INPUT WindowProc;
+ANALOG_INPUT Output[8];
+ANALOG_OUTPUT PreviewWindowProc;
+ANALOG_OUTPUT PreviewOutput;
+ANALOG_OUTPUT AppliedWindowProc;
+ANALOG_OUTPUT AppliesOutput[8];
+DIGITAL_OUTPUT Preset_fb[5];
+
+
+CHANGE PRESET
+{
+	INTEGER x, i;
+	x = GetLastModifiedArrayIndex();
+	for(i = 1; i <= 5; i++)
+	{
+		if(i == x)
+		{
+			Preset_fb[i] = 1;
+		}
+		else
+		Preset_fb[i] = 0;
+	}
+}
