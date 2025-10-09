@@ -152,15 +152,15 @@
         ],
         "DestinationVisibility": [
             "true",
-            "false",
             "true",
-            "false",
-            "false",
-            "false",
-            "false",
-            "false",
-            "false",
-            "false"
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true",
+            "true"
         ],
         "DestinationIcons": [
             "Display",
@@ -401,6 +401,7 @@
             "Preset 4",
             "Preset 5"
         ]
+
 
 	}
 }

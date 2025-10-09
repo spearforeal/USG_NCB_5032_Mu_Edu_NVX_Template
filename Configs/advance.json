@@ -2,23 +2,23 @@
     "presets":{
         "Preset1":{
             "windowPreset": 1, 
-            "outputs":[0, 0, 0, 1, 2, 4, 1, 0]
+            "outputs":[3, 0, 0, 1, 2, 4, 1, 3]
         },
         "Preset2":{
             "windowPreset": 1, 
-            "outputs":[0, 0, 0, 1, 2, 4, 1, 0]
+            "outputs":[5, 0, 0, 1, 2, 4, 1, 0]
         },
         "Preset3":{
             "windowPreset": 1, 
-            "outputs":[0, 0, 0, 1, 2, 4, 1, 0]
+            "outputs":[3, 0, 0, 1, 2, 4, 1, 0]
         },
         "Preset4":{
             "windowPreset": 1, 
-            "outputs":[0, 0, 0, 1, 2, 4, 1, 0]
+            "outputs":[1, 0, 0, 1, 2, 4, 1, 0]
         },
         "Preset5":{
             "windowPreset": 1, 
-            "outputs":[0, 0, 0, 1, 2, 4, 1, 0]
+            "outputs":[8, 3, 5, 1, 2, 4, 1, 0]
         }
     }
 
