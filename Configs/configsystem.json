@@ -9,7 +9,7 @@
         ],
         "AutoshutdownEnable":["True"],
         "DSP01IpAddress":["10.174.132.39"],
-        "PasswordInUse":["false"],
+        "PasswordInUse":["true"],
         "UserPassword":["2234"],
         "USBSwitcherHostname":[""],
         "USBSwitcherUsername": [""],
@@ -411,11 +411,11 @@
             "PnP"
         ],
         "RoutingPresetVisibility":[
-            "False",
-            "False",
-            "False",
-            "False",
-            "False"
+            "True",
+            "True",
+            "True",
+            "True",
+            "True"
         ],
         "RoutingPresetNames":[
             "Preset 1",
