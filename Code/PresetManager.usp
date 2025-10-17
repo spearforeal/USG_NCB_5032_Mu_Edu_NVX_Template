@@ -73,6 +73,7 @@ function InitBits()
 //********************************Inputs******************************************
 PUSH Initialize
 {
+	Initialized_fb = 0;
 	client.Initialize(DebugName);
 	if (gDbg) PRINT("[%s] Initialize pressed", DebugName);
 	gDirtyMask = 0;
@@ -177,5 +178,5 @@ function Main()
 	WaitForInitializationComplete();
 	InitBits();
 	RegisterDelegates();
-	client.Initialize(DebugName);
+	//client.Initialize(DebugName);
 }
