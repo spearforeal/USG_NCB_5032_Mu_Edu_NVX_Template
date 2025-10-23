@@ -16,6 +16,9 @@
         "PMOutputSelect2Label":["Window Manager"],
         "PMOutputSelect3Label":[""],
         "PMOutputSelect4Label":[""],
+        "PMRoutingHeader1":["Window Processor"],
+        "PMRoutingHeader2":["Outputs"],
+
         "Mode1HelpMessage1":["Selecting the buttons above will switch the page to access the other control pages."],
         "Mode1HelpMessage2":["This is the Video Routing page. Select the video source to be routed to the destination."],
 
